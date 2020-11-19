@@ -1,5 +1,5 @@
-# Grocery Store Web Application
-Group Project <br>
+# Grocery Store 
+Group Project: Web Application <br>
 Application used: Visual Studio 2019 <br>
 Framework: ASP.NET CORE 3.1 <br>
 Language: C# 8.0 <br>
